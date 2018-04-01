@@ -1,0 +1,9 @@
+src/main/webapp/css/
+src/main/webapp/fonts/
+src/main/webapp/module/
+src/main/webapp/static/editor-preview-bg.0053577.png
+src/main/webapp/static/module/
+src/main/webapp/static/vendors.js
+.gradletasknamecache
+out/
+.idea/
